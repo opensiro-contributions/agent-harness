@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "phoenix-agent-harness-budget-admission",
+  "original_repository": "Phoenixrr2113/agent-harness",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-10-23-10.json",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/phoenix-agent-harness/CONTRIBUTION_HANDOFF.md"
+  ],
+  "title": "Preserve day-rate events for full rate-limit window",
+  "work_state": "DELIVERED",
+  "next_action": "Historical metadata only; owner PAUSE prohibits new engineering and publication",
+  "source_revision": "0f67103affd30a3c778874b890dbd5801cdbd94f",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/phoenix-agent-harness/CONTRIBUTION_HANDOFF.md",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/phoenix-agent-harness/day-rate-event-retention.patch"
+  ],
+  "work_branches": [],
+  "external_prs": [
+    "https://github.com/Phoenixrr2113/agent-harness/pull/1"
+  ],
+  "last_event_id": null
+}
